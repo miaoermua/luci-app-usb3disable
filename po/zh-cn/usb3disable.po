@@ -1,0 +1,23 @@
+msgid "usb3disable"
+msgstr "禁用 USB3"
+
+msgid "enable now"
+msgstr "USB3 已启用"
+
+msgid "disable now"
+msgstr "USB3 已禁用"
+
+msgid "disable on boot"
+msgstr "开机自启时禁用 USB3"
+
+msgid "enable on boot"
+msgstr "开机自启时启用 USB3"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Disable USB3 can result in less signal leakage and a better wireless environment"
+msgstr "禁用 USB3 可以使更少的信号泄露，无线环境更好"
